@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.mb-6 {
+  margin-bottom: 60px;
+}
+
+.subtitle {
+  color: firebrick;
+}
+
+.form {
+  margin-top: 50px;
+}
